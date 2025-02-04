@@ -1,4 +1,16 @@
 # Data Preparation and Optimization for Product Marketing
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Tools and Libraries Used](#tools-and-libraries-used)
+3. [Objective](#objective)
+4. [Dataset Overview](#dataset-overview)
+5. [Approach and Methodology](#approach-and-methodology)
+    - [1. Data Cleaning and Standardization](#1-data-cleaning-and-standardization)
+    - [2. Removing Redundant Phrases](#2-removing-redundant-phrases)
+    - [3. Extracting Relevant Product Details](#3-extracting-relevant-product-details)
+    - [4. Generating Product Descriptions](#4-generating-product-descriptions)
+    - [5. Handling Missing Values](#5-handling-missing-values)
+6. [Conclusion](#conclusion)
 
 ## Introduction
 The dataset under review contains 3,487 rows and 7 columns, each detailing various product attributes. It is critical to ensure that the data is not only accurate but also optimized for search engine visibility and user readability. To achieve this, a combination of data cleaning and natural language processing (NLP) techniques has been employed. The purpose of this report is to outline the methods used to prepare the dataset for marketing analysis, which includes data standardization, handling missing values, and the creation of a new feature aimed at improving product descriptions and titles.
